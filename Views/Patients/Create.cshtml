@@ -1,0 +1,13 @@
+@model Patient
+
+
+<h2>Add Patient</h2>
+
+
+<form asp-action="Create" method="post">
+    <input asp-for="Name" placeholder="Name" /> <br />
+    <input asp-for="Age" placeholder="Age" /> <br />
+    <input asp-for="Gender" placeholder="Gender" /> <br />
+    <input asp-for="Disease" placeholder="Disease" /> <br />
+    <button type="submit">Save</button>
+</form>
