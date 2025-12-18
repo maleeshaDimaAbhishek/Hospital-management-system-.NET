@@ -1,0 +1,9 @@
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.csproj.AssemblyReference.cache
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.AssemblyInfoInputs.cache
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.AssemblyInfo.cs
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.csproj.CoreCompileInputs.cache
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.RazorAssemblyInfo.cache
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.RazorAssemblyInfo.cs
+/media/abhishek/705EE27A5EE2390C1/ICET/SAP/cv project/HospitalManagementSystem/obj/Debug/net8.0/HospitalManagementSystem.sourcelink.json
